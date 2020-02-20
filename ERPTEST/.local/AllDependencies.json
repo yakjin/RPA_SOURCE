@@ -1332,9 +1332,9 @@
     "restore": {
       "projectUniqueName": "ERPTEST",
       "projectName": "ERPTEST",
-      "projectPath": "D:\\RPA Source\\ERPTEST\\.local",
+      "projectPath": "D:\\GIT\\ERPTEST\\.local",
       "packagesPath": "C:\\Users\\bhkim\\.nuget\\packages\\",
-      "outputPath": "D:\\RPA Source\\ERPTEST\\.local"
+      "outputPath": "D:\\GIT\\ERPTEST\\.local"
     },
     "frameworks": {
       "net461": {

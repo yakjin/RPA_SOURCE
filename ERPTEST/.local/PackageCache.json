@@ -7,7 +7,8 @@
       },
       "Assemblies": [
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.datatable.activities/1.1.0\\lib/DataTableExtensions.Activities.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\balareva.datatable.activities/1.1.0"
     },
     {
       "Package": {
@@ -18,7 +19,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.excel.activities/17.0.0\\lib/BalaReva.Excel.Design.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.excel.activities/17.0.0\\lib/BalaReva.Excel.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.excel.activities/17.0.0\\lib/BalaReva.Utilities.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\balareva.excel.activities/17.0.0"
     },
     {
       "Package": {
@@ -31,7 +33,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.externals.activities/4.0.3\\lib/Ionic.Zip.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.externals.activities/4.0.3\\lib/Newtonsoft.Json.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\balareva.externals.activities/4.0.3\\lib/SharpCompress.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\balareva.externals.activities/4.0.3"
     },
     {
       "Package": {
@@ -40,7 +43,8 @@
       },
       "Assemblies": [
         "C:\\Users\\bhkim\\.nuget\\packages\\excel_extensions/1.0.17\\lib/Excel_ExtensionsLib.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\excel_extensions/1.0.17"
     },
     {
       "Package": {
@@ -54,7 +58,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\excelactivities/1.0.0\\lib/UiPath.Excel.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\excelactivities/1.0.0\\lib/Utility.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\excelactivities/1.0.0\\lib/itextsharp.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\excelactivities/1.0.0"
     },
     {
       "Package": {
@@ -63,7 +68,8 @@
       },
       "Assemblies": [
         "C:\\Users\\bhkim\\.nuget\\packages\\sharpziplib/1.1.0\\lib/net45/ICSharpCode.SharpZipLib.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\sharpziplib/1.1.0"
     },
     {
       "Package": {
@@ -79,7 +85,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\sqlitedatabaseforuipath/1.0.0\\lib/System.Data.SQLite.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\sqlitedatabaseforuipath/1.0.0\\lib/x64/SQLite.Interop.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\sqlitedatabaseforuipath/1.0.0\\lib/x86/SQLite.Interop.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\sqlitedatabaseforuipath/1.0.0"
     },
     {
       "Package": {
@@ -91,47 +98,29 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.database.activities/1.2.6863.32528\\lib/net40-Client/UiPath.Database.Activities.Design.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.database.activities/1.2.6863.32528\\lib/net40-Client/UiPath.Database.Activities.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.database.activities/1.2.6863.32528\\lib/net40-Client/UiPath.Database.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipath.database.activities/1.2.6863.32528"
     },
     {
       "Package": {
-        "Id": "UiPathTeam.Calendar.Activities",
-        "Version": "1.0.0"
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.5.3"
       },
       "Assemblies": [
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.calendar.activities/1.0.0\\lib/net40/UiPathTeam.Calendar.Activities.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "UiPathTeam.Excel.Extensions.Activities",
-        "Version": "1.0.4"
-      },
-      "Assemblies": [
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.excel.extensions.activities/1.0.4\\lib/Excel.Activities.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "UiPathTeam.XLExcel.Activities",
-        "Version": "1.0.6814.30102"
-      },
-      "Assemblies": [
+        "C:\\Users\\bhkim\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.Activities.Design.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.Activities.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "Weissenberg.DataTable.Activities",
-        "Version": "1.0.2"
-      },
-      "Assemblies": [
-        "C:\\Users\\bhkim\\.nuget\\packages\\weissenberg.datatable.activities/1.0.2\\lib/Weissenberg.DataTable.Activities.dll"
-      ]
+        "C:\\Users\\bhkim\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\sharpziplib/1.1.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.Activities.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3"
     },
     {
       "Package": {
@@ -148,7 +137,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.mail.activities/1.4.0\\lib/net452/UiPath.Mail.Activities.Design.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.mail.activities/1.4.0\\lib/net452/UiPath.Mail.Activities.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.mail.activities/1.4.0\\lib/net452/UiPath.Mail.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipath.mail.activities/1.4.0"
     },
     {
       "Package": {
@@ -172,7 +162,8 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.system.activities/19.4.0\\lib/net461/UiPath.OrchestratorClient.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.system.activities/19.4.0\\lib/net461/UiPath.System.Activities.Design.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.system.activities/19.4.0\\lib/net461/UiPath.System.Activities.dll"
-      ]
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipath.system.activities/19.4.0"
     },
     {
       "Package": {
@@ -181,10 +172,10 @@
       },
       "Assemblies": [
         "C:\\Users\\bhkim\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
@@ -209,32 +200,57 @@
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll"
-      ]
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipath.uiautomation.activities/19.4.1"
     },
     {
       "Package": {
-        "Id": "UiPath.Excel.Activities",
-        "Version": "2.5.3"
+        "Id": "UiPathTeam.Calendar.Activities",
+        "Version": "1.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\bhkim\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.calendar.activities/1.0.0\\lib/net40/UiPathTeam.Calendar.Activities.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.calendar.activities/1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.Excel.Extensions.Activities",
+        "Version": "1.0.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.excel.extensions.activities/1.0.4\\lib/Excel.Activities.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.excel.extensions.activities/1.0.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.XLExcel.Activities",
+        "Version": "1.0.6814.30102"
+      },
+      "Assemblies": [
         "C:\\Users\\bhkim\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\sharpziplib/1.1.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.Activities.dll",
-        "C:\\Users\\bhkim\\.nuget\\packages\\uipath.excel.activities/2.5.3\\lib/net452/UiPath.Excel.dll"
-      ]
+        "C:\\Users\\bhkim\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.Activities.Design.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.Activities.dll",
+        "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102\\lib/net452/UiPathTeam.XLExcel.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\uipathteam.xlexcel.activities/1.0.6814.30102"
+    },
+    {
+      "Package": {
+        "Id": "Weissenberg.DataTable.Activities",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\bhkim\\.nuget\\packages\\weissenberg.datatable.activities/1.0.2\\lib/Weissenberg.DataTable.Activities.dll"
+      ],
+      "Path": "C:\\Users\\bhkim\\.nuget\\packages\\weissenberg.datatable.activities/1.0.2"
     }
   ],
   "Conflicts": [],
